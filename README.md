@@ -1,3 +1,3 @@
 # odin-recipes
-This is a basic Recipe Website
-No CSS or JS 
+<p>This is a basic recipe website</p>
+<p>No CSS or JS</p> 
